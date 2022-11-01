@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Eloy
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typescript e Angular
+- 🔭 Front-end Developer Intern
+- 🌱 Estudando Typescript e React
 
 <div>
   <a href="https://github.com/eloy-silva">
