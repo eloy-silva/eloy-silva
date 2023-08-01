@@ -1,4 +1,4 @@
-## Olá! Eu sou a Eloy
+## Olá! Eu sou o Eloy
 
 - 🔭 Front-end Developer Intern
 - 🌱 Estudando Typescript e React
